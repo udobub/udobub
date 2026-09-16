@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**udobub/udobub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Udo Bub
 
 Managing Director and technology executive working at the intersection of AI, data, software and business transformation.
